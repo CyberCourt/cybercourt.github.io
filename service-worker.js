@@ -1,4 +1,4 @@
-importScripts("https://cdn.myun.info/workbox-v4.3.1/workbox-sw.js", "precache-manifest.c9b3fee0fc5a3a09118f5b0600b4bf4a.js");
+importScripts("https://cdn.myun.info/workbox-v4.3.1/workbox-sw.js", "precache-manifest.4589b92e3d7c8d09c4d273e0de95c4cd.js");
 
 
 workbox.core.skipWaiting(); 
